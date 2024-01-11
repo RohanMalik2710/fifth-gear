@@ -1,0 +1,9 @@
+h1 {
+    color: blueviolet;
+    background-color: lightgray;
+    border: 2px solid violet;
+}
+body{
+    height: auto;
+    width: 400px;
+}
